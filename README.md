@@ -1,16 +1,20 @@
-## Hi there 👋
+# Wodud Khan
 
-<!--
-**wodud-khan/wodud-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Development Engineer in Test (SDET) with strong experience in
+Python-based test automation, modern UI testing with Playwright, API automation,
+and CI/CD quality engineering.
 
-Here are some ideas to get you started:
+## 🔧 Core Skills
+- Python, Pytest
+- Playwright (UI Automation)
+- REST API Testing
+- Test Framework Design
+- CI/CD (GitHub Actions)
+- Cloud-ready Test Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+➡️ Enterprise Playwright Automation Framework  
+https://github.com/wodud-khan/sdet-playwright-framework
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/wodud-k-39756435b
